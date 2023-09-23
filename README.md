@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# Project 4 Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- **Project Name:** Personal Best
+- **Project By:** Jonathan Casasola
+- [**Link To  Frontend GITHUB**]
+- [**LINK TO DEPLOYED WEBSITE**]
+- **List of technologies used** React, React Router DOM, Milligram, HTML, CSS
+- [**Link to Trello**]
 
-## Available Scripts
+## Description
+Ever wanted to keep track of your personal best at the gym? to see if you improving with the max weight your hitting, cardio sessions, overal keep track of your performance and being able to use this data to push your self for more improvment.
 
-In the project directory, you can run:
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FTp3QFbI4z1jWrWA4Y7zQ86%2FPersonal-best%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D2-32%26viewport%3D452%252C331%252C1%26t%3DJPym7qqfe4ITfn3y-1%26scaling%3Dmin-zoom%26mode%3Ddesign" allowfullscreen></iframe>
 
-### `npm start`
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FTp3QFbI4z1jWrWA4Y7zQ86%2FPersonal-best%3Fpage-id%3D2%253A11%26type%3Ddesign%26node-id%3D2-31%26viewport%3D386%252C392%252C1%26t%3DgsbtMadSFpMGqnzI-1%26scaling%3Dmin-zoom%26mode%3Ddesign" allowfullscreen></iframe>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FTp3QFbI4z1jWrWA4Y7zQ86%2FPersonal-best%3Fpage-id%3D2%253A22%26type%3Ddesign%26node-id%3D2-30%26viewport%3D351%252C381%252C1.41%26t%3DkmovTYOE1XrIi3gL-1%26scaling%3Dmin-zoom%26mode%3Ddesign" allowfullscreen></iframe>

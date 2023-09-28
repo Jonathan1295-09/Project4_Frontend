@@ -1,3 +1,3 @@
-const url = "https://personalbest.onrender.com"
+const url = "https://personalbest.onrender.com/personalbest"
 
 export default url

@@ -1,5 +1,7 @@
-import {createBrowserRouter, createdRoutesFromElement, Router} from 'react-router-dom';
+import {createBrowserRouter, createdRoutesFromElement, Route} from 'react-router-dom';
 import App from "./App";
+import Index from './pages/Index';
+import Show from './pages/Show';
 
 const router = createBrowserRouter(createdRoutesFromElement(
     <>

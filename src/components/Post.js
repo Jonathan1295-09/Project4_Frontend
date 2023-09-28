@@ -1,5 +1,5 @@
 function Post (props){
-    return <div>Index</div>
+    return <div>Post</div>
 }
 
 export default Post;

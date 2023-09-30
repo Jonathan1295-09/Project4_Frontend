@@ -1,5 +1,6 @@
 import url from "./url";
 
+
 //Index loader
 export const indexLoader = async () => {
     const response = await fetch(url)

@@ -1,0 +1,26 @@
+body {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/503/336/22/sports-other-wallpaper-thumb.jpg);
+    text-align: center;
+    justify-content: center;
+}
+
+.index{
+    font-size: 10px;
+    color: yellow; 
+    padding: 300px;
+}
+
+input, ::placeholder{
+    text-align: center;
+    font-size: 20px;
+    color: gold;  
+    backdrop-filter: blur(20px);
+}
+
+.update{
+    padding: 100px
+}
+
+.post{
+    backdrop-filter: blur(20px);
+}

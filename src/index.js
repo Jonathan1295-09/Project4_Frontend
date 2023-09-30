@@ -5,6 +5,8 @@ import reportWebVitals from './reportWebVitals';
 import "milligram";
 import { RouterProvider } from 'react-router-dom';
 import router from './router';
+import "./styles.scss"
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

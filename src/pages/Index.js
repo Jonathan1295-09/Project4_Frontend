@@ -7,11 +7,12 @@ function Index (props){
     <div style={{textAlign: "center"}}>
         <h2>Create a personalbest</h2>
             <Form method="Post" action="/create">
-                <input type='text' name='subject' placeholder='Cardio'/>
-                <input type='text' name='subject' placeholder='Bench Press'/>
-                <input type='text' name='subject' placeholder='Deadlift'/>
-                <input type='text' name='subject' placeholder='Squat'/>
-                <input type='text' name='subject' placeholder='Shoulder Press'/>
+                <input type='text' name='Cardio' placeholder='Cardio'/>
+                <input type='text' name='Benchpress' placeholder='Bench Press'/>
+                <input type='text' name='Deadlift' placeholder='Deadlift'/>
+                <input type='text' name='Squat' placeholder='Squat'/>
+                <input type='text' name='Shoulderpress' placeholder='Shoulder Press'/>
+                <button>Create New personal best</button>
             </Form>
     </div>
     {personalbests.map((personalbest) => <Post key={personalbest.id} post={personalbest}/>)}

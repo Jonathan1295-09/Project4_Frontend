@@ -11,11 +11,11 @@ function Post ({post}){
 
     return <div style={div}>
         <Link to={`/post/${post.id}`}>
-            <h1>{post.Cardio}</h1>
-            <h2>{post.BenchPress}</h2>
-            <h2>{post.Deadlift}</h2>
-            <h2>{post.Squat}</h2>
-            <h2>{post.ShoulderPress}</h2>
+            <h1>{post.Cardio} Cardio</h1>
+            <h2>{post.Benchpress} Benchpress</h2>
+            <h2>{post.Deadlift} Deadlift</h2>
+            <h2>{post.Squat} Squat</h2>
+            <h2>{post.Shoulderpress} Shoulderpress</h2>
         </Link>
     </div>
 }
